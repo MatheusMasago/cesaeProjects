@@ -1,3 +1,18 @@
 body{
-    color: tan;
+    background-color: tan;
+}
+.title{
+    font-size: 32px;
+    font-family: "Playwrite HR", cursive;
+}
+.text{
+    font-size: 20px;
+}
+.desc{
+    font-family: "Playwrite HR", cursive;
+    font-size: 18px;
+}
+#final{
+    margin: 10px;
+    font-size: 30px;
 }
